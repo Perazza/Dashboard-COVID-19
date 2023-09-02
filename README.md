@@ -1,4 +1,2 @@
 # Dashboard-COVID-19
-Dashboard desenvolvido em Power BI, consultando API pública de casos do COVID-19.
-
--> Adicionado método de consulta API páginada em linguagem M (Power Query).
+A API example power bi dashboard developed in 2020 using covid-19 data.
